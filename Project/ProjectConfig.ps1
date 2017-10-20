@@ -7,7 +7,7 @@
 $C_ProjectName = "common"
 
 # プロジェクト リポジトリ
-$C_ProjectRepository = "git@bitbucket.org:gloops-system/checkeventlog_hyper-v.git"
+$C_ProjectRepository = "git@github.com:SyuichiMurashima/CheckEventLog_Hyper-V.git"
 
 # AP Server アクセスアカウント
 $C_APServerAccount = "administrator"
